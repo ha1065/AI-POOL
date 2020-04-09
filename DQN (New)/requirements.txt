@@ -1,0 +1,5 @@
+numpy
+pygame
+zope.event
+torch
+torchvision
